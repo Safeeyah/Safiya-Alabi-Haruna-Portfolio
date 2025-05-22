@@ -51,7 +51,7 @@ This report offers deep insights into customer behavior and product performance,
 
 Here are screenshots of my Power BI project:
 
-![Dashboard Screenshot 1](Github1.png)  
-![Dashboard Screenshot 2](github2.png)  
-![Dashboard Screenshot 3](github3.png)  
-![Dashboard Screenshot 4](github4.png)
+![Dashboard Screenshot 1](Github1.JPG)  
+![Dashboard Screenshot 2](github2.JPG)  
+![Dashboard Screenshot 3](github3.JPG)  
+![Dashboard Screenshot 4](github4.JPG)
